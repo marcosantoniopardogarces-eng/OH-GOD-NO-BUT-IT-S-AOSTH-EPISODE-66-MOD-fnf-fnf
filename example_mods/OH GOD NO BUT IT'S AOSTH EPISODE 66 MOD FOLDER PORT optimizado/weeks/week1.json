@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Oh God No",
+			"Sonic",
+			[
+				0,
+				52,
+				185
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "66",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Episode 66",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

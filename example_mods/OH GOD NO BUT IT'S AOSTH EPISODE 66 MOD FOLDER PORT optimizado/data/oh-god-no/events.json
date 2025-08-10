@@ -1,0 +1,292 @@
+{
+	"events": [
+		[
+			1678.32167832168,
+			[
+				["Play Animation", "singUP", "BF"],
+				["Add Subtitle", "WHY", ""]
+			]
+		],
+		[
+			1888.11188811189,
+			[
+				["Add Subtitle", "WHY DID", ""]
+			]
+		],
+		[
+			1888.11188811189,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			2045.45454545455,
+			[
+				["Add Subtitle", "WHY DID YOU", ""]
+			]
+		],
+		[
+			2045.45454545455,
+			[
+				["Play Animation", "singUP", "BF"]
+			]
+		],
+		[
+			2307.69230769231,
+			[
+				["Add Subtitle", "DO", ""]
+			]
+		],
+		[
+			2307.69230769231,
+			[
+				["Play Animation", "singDOWN", "BF"]
+			]
+		],
+		[
+			2569.93006993007,
+			[
+				["Add Subtitle", "DO THIS", ""]
+			]
+		],
+		[
+			2569.93006993007,
+			[
+				["Play Animation", "singRIGHT", "BF"]
+			]
+		],
+		[
+			2937.06293706294,
+			[
+				["Add Subtitle", "DO THIS SONIC?!", ""]
+			]
+		],
+		[
+			2937.06293706294,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			3146.85314685315,
+			[
+				["Play Animation", "singRIGHT", "BF"]
+			]
+		],
+		[
+			3356.64335664336,
+			[
+				["Add Subtitle", "", ""]
+			]
+		],
+		[
+			70489.5104895105,
+			[
+				["Set Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			70489.5104895105,
+			[
+				["Change Character", "Dad", "Sonic-Front"],
+				["Change Character", "BF", "where she go"],
+				["Flash Camera", "2", ""]
+			]
+		],
+		[
+			97342.6573426573,
+			[
+				["Change Character", "Dad", "Sonic"],
+				["Change Character", "BF", "Tails"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			97342.6573426573,
+			[
+				["Set Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			126083.916083916,
+			[
+				["Add Subtitle", "WHAT", ""]
+			]
+		],
+		[
+			126083.916083916,
+			[
+				["Play Animation", "singRIGHT", "BF"]
+			]
+		],
+		[
+			126346.153846154,
+			[
+				["Add Subtitle", "WHAT HAPP", ""]
+			]
+		],
+		[
+			126346.153846154,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			126555.944055944,
+			[
+				["Add Subtitle", "WHAT HAPPENED", ""]
+			]
+		],
+		[
+			126555.944055944,
+			[
+				["Play Animation", "singUP", "BF"]
+			]
+		],
+		[
+			126713.286713287,
+			[
+				["Add Subtitle", "WHAT HAPPENED TO", ""]
+			]
+		],
+		[
+			126713.286713287,
+			[
+				["Play Animation", "singDOWN", "BF"]
+			]
+		],
+		[
+			126923.076923077,
+			[
+				["Play Animation", "singUP", "BF"]
+			]
+		],
+		[
+			126923.076923077,
+			[
+				["Add Subtitle", "WHAT HAPPENED TO YOU?!", ""]
+			]
+		],
+		[
+			127867.132867133,
+			[
+				["Add Subtitle", "", ""]
+			]
+		],
+		[
+			128496.503496503,
+			[
+				["Add Subtitle", "WHY", ""]
+			]
+		],
+		[
+			128496.503496503,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			128653.846153846,
+			[
+				["Add Subtitle", "WHY DID", ""]
+			]
+		],
+		[
+			128653.846153846,
+			[
+				["Play Animation", "singDOWN", "BF"]
+			]
+		],
+		[
+			128811.188811189,
+			[
+				["Add Subtitle", "WHY DID YOU", ""]
+			]
+		],
+		[
+			128811.188811189,
+			[
+				["Play Animation", "singUP", "BF"]
+			]
+		],
+		[
+			129125.874125874,
+			[
+				["Play Animation", "singRIGHT", "BF"]
+			]
+		],
+		[
+			129125.874125874,
+			[
+				["Add Subtitle", "WHY DID YOU CHANGE", ""]
+			]
+		],
+		[
+			129545.454545455,
+			[
+				["Add Subtitle", "ALL", ""]
+			]
+		],
+		[
+			129545.454545455,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			129650.34965035,
+			[
+				["Play Animation", "singDOWN", "BF"]
+			]
+		],
+		[
+			129650.34965035,
+			[
+				["Add Subtitle", "ALL OF", ""]
+			]
+		],
+		[
+			129755.244755245,
+			[
+				["Add Subtitle", "ALL OF A", ""]
+			]
+		],
+		[
+			129755.244755245,
+			[
+				["Play Animation", "singUP", "BF"]
+			]
+		],
+		[
+			129965.034965035,
+			[
+				["Add Subtitle", "ALL OF A SUDD", ""]
+			]
+		],
+		[
+			129965.034965035,
+			[
+				["Play Animation", "singLEFT", "BF"]
+			]
+		],
+		[
+			130122.377622378,
+			[
+				["Play Animation", "singRIGHT", "BF"]
+			]
+		],
+		[
+			130122.377622378,
+			[
+				["Add Subtitle", "ALL OF A SUDDEN?!", ""]
+			]
+		],
+		[
+			130909.090909091,
+			[
+				["Add Subtitle", "", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
